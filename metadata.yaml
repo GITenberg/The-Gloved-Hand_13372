@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13372#The-Gloved-Hand
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2004-09-04'
 gutenberg_type: Text
